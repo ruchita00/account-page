@@ -1,0 +1,35 @@
+.main__firstbox {
+  /* border-right: 20px solid #ebe7fb; */
+   margin: 0;
+   padding: 0;
+  /* padding: 5px; */
+
+}
+
+hr {
+  background-color: #e8a317;
+  color: #e8a317;
+  border-color: #e8a317;
+  height: 0.5vh;
+  width: 120%;
+}
+
+.firstbox__heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-weight:100;
+  margin:0;
+  font-size: 12px;
+
+}
+.formbox{
+  display: grid;
+  /* justify-items: left; */
+  /* margin: 60px 50px; */
+  /* padding: 10px; */
+  /* border: 2px solid black; */
+  /* border-radius: 10px; */
+
+}

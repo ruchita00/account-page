@@ -1,0 +1,15 @@
+/* .address{
+  width: 40%;
+  height: 40%;
+  box-shadow: 5px;
+  background-color: #fff;
+} */
+
+input {
+  padding: 6px;
+}
+label {
+  width: 240px;
+  display: inline-block;
+  text-align: right;
+}
